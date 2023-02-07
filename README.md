@@ -44,7 +44,12 @@ WHEN I refreshthe page, THEN the saved events are not deleted.
 
 
 
-<!-- URL for deployed website -->
+URL for deployed website:
 
-<!-- URL for repository website -->
+https://josiesavill.github.io/Challenge5/
+
+
+ URL for repository website:
+
+https://github.com/JosieSavill/Challenge5
 
